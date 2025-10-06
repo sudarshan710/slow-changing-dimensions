@@ -1,0 +1,3 @@
+2025-10-06 17:14:07,950 - notebook_logger - DEBUG - ------ Changes found. Proceeding with SCD2 merge.
+2025-10-06 17:14:14,915 - notebook_logger - INFO - Changes detected for IDs: [9, 10, 11, 12, 13, 14, 15, 17, 16, 18, 19, 20]
+2025-10-06 17:14:26,581 - notebook_logger - DEBUG - ------ Expired old records and inserted new records
